@@ -21,3 +21,6 @@ The code we write for react native is actually compiled to a native code for bot
 * The instructions are a bit different depending on the operating system
 * Full Flexibility
 * NB: You can always eject(switch) from expo to the React Native CLI
+
+
+#Se estiver saṽando errado copie a ;android pro lugar certo e joga """ ln -s /path/to/.android/ """ na home do terminal
