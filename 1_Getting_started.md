@@ -12,13 +12,13 @@ The code we write for react native is actually compiled to a native code for bot
 # Installing react native
 
 ## Expo CLI
-Managed Workflow
-Same instalation steps on mac, windows of linux
-Limited to the expo ecosystem
+* Managed Workflow
+* Same instalation steps on mac, windows of linux
+* Limited to the expo ecosystem
 
 ## React Native CLI
-Manually install and configure some dependencies
-The instructions are a bit different depending on the operating system
-Full Flexibility
+* Manually install and configure some dependencies
+* The instructions are a bit different depending on the operating system
+* Full Flexibility
 
 * NB: You can always eject(switch) from expo to the React Native CLI
